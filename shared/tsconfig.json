@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "rootDir": "..",
+        "outDir": "../target/",
+
+        "composite": true,
+        "lib": ["DOM", "DOM.Iterable", "ES2017", "ES2019.Object"]
+    }
+}
